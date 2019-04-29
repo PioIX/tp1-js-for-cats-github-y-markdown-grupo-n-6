@@ -3,7 +3,7 @@
 ### Lo bien que esta explicada la guia. </br>
 ## 2- ¿Qué fue lo más fácil? </br>
 ### Entender que hacer. </br>
-##3- ¿Qué fue lo más difícil? </br>
+## 3- ¿Qué fue lo más difícil? </br>
 ### Entender las cosas que no habiamos visto antes. </br>
 ## 4- ¿Qué conocías de otros lenguajes (nombrar el lenguaje)? </br>
 ### Las variables, el identado, operaciones, funciones. </br>
